@@ -8,14 +8,14 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: blue;
     color: white;
     text-align: center;
     padding: 20px;
 }
 
 section {
-    background: white;
+    background: blue;
     margin: 20px auto;
     padding: 20px;
     border-radius: 8px;
