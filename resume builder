@@ -42,7 +42,7 @@
         <button id="add-skill">Add Skill</button>
         <ul id="skills-list"></ul>
     </section>
-    <section id="achievements">
+    <section id="achievements acheived">
         <h2>Real-Time Achievements</h2>
         <button id="add-achievement">Add Achievement</button>
         <div id="achievements-list"></div>
