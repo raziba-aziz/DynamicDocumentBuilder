@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    margin : 0;
+    padding: 0;
+    height : 100vh; /* Extend body to full screen height */
+    display: flex;
+    flex-direction: column;
+    background-color: #FFE4E1;
+}
+
+
+header {
+    background-color: #001f3f;
+    color: white;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    width: 100px; /* Space for the logo */
+    height: auto;
+}
+
+nav {
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-top: 10px; /* Moves buttons slightly down */
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li .toolbar:hover {
+    text-decoration: underline;
+    color: #a52a2a;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+nav ul li .btn:hover {
+    background-color: #a52a2a;
+    color: white;
+    transition: background-color 0.3s ease, color 0.3s ease;
+} 
+
+
+nav ul li .btn {
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-left: auto; /*Move button to the right end */
+    
+} 
+
+
+.hero {
+    text-align: center;
+    padding: 50px 20px;
+    color: black;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: white;
+    color: navy;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#about, #founder {
+    padding: 30px;
+    background-color: #FFE4E1;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+    color: #FFE4E1;
+}
