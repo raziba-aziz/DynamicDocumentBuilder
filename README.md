@@ -1,7 +1,7 @@
 # Welcome to Dynamic Resume Builder! 🎨💼 
-This project is designed to help users create professional, personalized, and visually stunning resumes with ease. Whether you're a student, a job seeker, or a professional looking to refresh your resume, this platform provides an interactive and user-friendly experience. <br>
+This project is designed to help users create professional, personalized, and visually stunning documents with ease. Whether you're a student, a job seeker, or a professional looking to refresh your resume or other documents, this platform provides an interactive and user-friendly experience. <br>
 ✨ Key Features:<br>
-✅ Interactive Resume Creation – Customize your resume in real time.<br>
+✅ Interactive Resume/Document Creation – Customize your resume in real time.<br>
 ✅ Visually Appealing UI – Sleek design with navy blue, black, and white aesthetics.<br>
 ✅ Easy Login & Signup – Secure authentication using Node.js, Express, and Firebase 🔐.<br>
 ✅ Founder’s Section – Learn more about the creator behind this project!<br>
